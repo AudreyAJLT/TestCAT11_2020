@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel&family=Modak&family=Open+Sans+Condensed:wght@300&display=swap');
+body {
+  font-family: 'Open Sans Condensed', sans-serif ;
+}
+h1 {
+font-family: 'Modak', cursive;
+margin-bottom: 1em;
+font-size: 6em;
+
+}
+h2 {
+font-family: 'Marvel', sans-serif;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+font-size: 4em;
+}
+p {
+  margin-bottom: 0.25em;
+}

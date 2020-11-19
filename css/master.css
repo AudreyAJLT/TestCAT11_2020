@@ -1,0 +1,31 @@
+figure {
+  border: 4px solid rgb(0, 0, 0);
+  max-width: 960px;
+}
+figure img {
+  width: 100%
+}
+header{
+  background: rgb(255, 0, 0);
+}
+
+section {
+  min-height: 98vh;
+  box-shadow: 10px 200px 183px 43px rgba(255,0,0,1);;
+  padding : 2em;
+}
+
+#section-01 {
+  background: url('images/bg_01.jpg') top center, no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#section-01 h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  }
